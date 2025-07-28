@@ -1,0 +1,14 @@
+Z:\C#\ProjectOne\bin\Debug\net8.0\ProjectOne.exe
+Z:\C#\ProjectOne\bin\Debug\net8.0\ProjectOne.deps.json
+Z:\C#\ProjectOne\bin\Debug\net8.0\ProjectOne.runtimeconfig.json
+Z:\C#\ProjectOne\bin\Debug\net8.0\ProjectOne.dll
+Z:\C#\ProjectOne\bin\Debug\net8.0\ProjectOne.pdb
+Z:\C#\ProjectOne\obj\Debug\net8.0\ProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\ProjectOne\obj\Debug\net8.0\ProjectOne.AssemblyInfoInputs.cache
+Z:\C#\ProjectOne\obj\Debug\net8.0\ProjectOne.AssemblyInfo.cs
+Z:\C#\ProjectOne\obj\Debug\net8.0\ProjectOne.csproj.CoreCompileInputs.cache
+Z:\C#\ProjectOne\obj\Debug\net8.0\ProjectOne.dll
+Z:\C#\ProjectOne\obj\Debug\net8.0\refint\ProjectOne.dll
+Z:\C#\ProjectOne\obj\Debug\net8.0\ProjectOne.pdb
+Z:\C#\ProjectOne\obj\Debug\net8.0\ProjectOne.genruntimeconfig.cache
+Z:\C#\ProjectOne\obj\Debug\net8.0\ref\ProjectOne.dll
