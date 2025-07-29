@@ -26,9 +26,11 @@ class LibraryProgram
             switch (option)
             {
                 case 1:
-                    System.Console.WriteLine("Enter Book (Name/Author/ID)");
+                    System.Console.WriteLine("Enter the Book (Name)");
                     string t = Console.ReadLine();
+                    System.Console.WriteLine("Enter the Book (Author)");
                     string a = Console.ReadLine();
+                    System.Console.WriteLine("Enter the Book (ID)");
                     int id = Convert.ToInt32(Console.ReadLine());
                     Book b2 = new Book(t, id, a, true);
                     Book.noOfBook += 1;
